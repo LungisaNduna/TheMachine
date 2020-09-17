@@ -1,4 +1,4 @@
-# TheMachine
+# The Machine
 A (shared) solo RPG game of decent into madness.
 
 # How to play
